@@ -7,7 +7,7 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import "./Orders.css";
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
-import logo from "../../assets/YMlogo.PNG";
+import logo from "../../assets/YMlogo.png";
 import api from '../../api/axios';
 
 const Orders = () => {
