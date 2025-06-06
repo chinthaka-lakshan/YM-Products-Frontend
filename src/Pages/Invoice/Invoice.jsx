@@ -59,7 +59,7 @@ import "./Invoice.css";
 import Sidebar from "../../components/Sidebar/AdminSidebar/AdminSidebar";
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
-import logo from "../../assets/YMlogo.PNG";
+import logo from "../../assets/YMlogo.png";
 import AdminNavbar from "../../components/AdminNavbar/AdminNavbar";
 
 const Invoice = () => {
