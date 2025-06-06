@@ -59,7 +59,7 @@ import "./RepInvoice.css";
 import RepSidebar from "../../components/Sidebar/RepSidebar/RepSidebar"
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
-import logo from "../../assets/YMlogo.PNG"
+import logo from "../../assets/YMlogo.png"
 
 
 const RepInvoice = () => {
